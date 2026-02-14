@@ -1,4 +1,4 @@
-# Section 12: Modern Physics I
+# Section 11: Modern Physics I
 
 ## 1. De Broglie Wavelength
 
@@ -34,7 +34,7 @@ What is the angular momentum of an electron in the n=4 state of a hydrogen atom,
 
 ## 9. Threshold Frequency
 
-For light of what frequency will the photoelectric effect begin for a metal with a work function of 4.5 eV?
+For light, at what frequency will the photoelectric effect begin for a metal with a work function of 4.5 eV?
 
 ## 10. X-Ray Production
 

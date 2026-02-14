@@ -26,7 +26,7 @@ Satellites in geostationary orbit remain above the same point on Earth. What mus
 
 ## 7. Escape Velocity
 
-What is the escape velocity from the surface of the Moon? (Moon's mass $M_M \approx 7.35 \times 10^{22}$ kg; whereas Moon's radius $R_M \approx 1,737$ km). Result express in km/s and as a fraction of Earth's escape velocity (Earth's escape velocity $\approx 11.2$ km/s).
+What is the escape velocity from the surface of the Moon? (Moon's mass $M_M \approx 7.35 \times 10^{22}$ kg; whereas Moon's radius $R_M \approx 1,737$ km). Express the result in km/s and as a fraction of Earth's escape velocity (Earth's escape velocity $\approx 11.2$ km/s).
 
 ## 8. Solar Gravity
 
@@ -42,6 +42,6 @@ How much time would it take to get from Earth to Mars when Mars is at its closes
 
 a) for a message sent at the speed of light?
 
-b) by spacecraft traveling at a constant speed of 40,000 km/h = 11.11 km/s?
+b) by a spacecraft traveling at a constant speed of 40,000 km/h = 11.11 km/s?
 
-c) by "airplane" traveling at a constant speed of 900 km/h typical for intercontinental flights?
+c) by "airplane" traveling at a constant speed of 900 km/h, typical for intercontinental flights?

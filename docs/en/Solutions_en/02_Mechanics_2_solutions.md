@@ -18,7 +18,7 @@ A pendulum with a length of 1.0 meter is released from an initial angle of $15^\
 
 ## 5. Energy & Momentum
 
-A 0.5 kg block slides down a frictionless track from a height of 3.0 m. At the bottom, it collides and sticks to a 1.5 kg block which is initially at rest. What is the speed of the combined mass just after the collision?
+A 0.5 kg block slides down a frictionless track from a height of 3.0 m. At the bottom, it collides and sticks to a 1.5 kg block, which is initially at rest. What is the speed of the combined mass just after the collision?
 
 ## 6. Horizontal Projectile
 
@@ -104,11 +104,11 @@ a mass $m$ hangs on a string. What is the deviation of the string from the verti
 
 ## 18. Dynamics VIII
 
-A ping-pong ball loses $1/k$ fraction of its kinetic energy after hitting the floor. Find the total distance the ball will travel when dropped from height $h$ until it stops. Coefficient $k>1$.
+A ping-pong ball loses $1/k$ fraction of its kinetic energy after hitting the floor. Find the total distance the ball will travel when dropped from a height $h$ until it stops. Coefficient $k>1$.
 
 ## 19. Dynamics IX
 
-A stone of mass $m$ was thrown with velocity $v_0$ into a well where the water level is at depth $d$. Assume that the stone falls freely in the air, while in the water a resistance force proportional to velocity acts on it:
+A stone of mass $m$ was thrown with velocity $v_0$ into a well where the water level is at depth $d$. Assume that the stone falls freely in the air, while in the water, a resistance force proportional to velocity acts on it:
 
 $$
 F = -kv

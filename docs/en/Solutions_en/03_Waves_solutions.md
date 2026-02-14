@@ -18,7 +18,7 @@ A person shouts towards a cliff and hears the echo 4.0 seconds later. How far aw
 
 ## 6. Wave Equation
 
-A wave is described by the equation $y(x,t) = 0.05 \sin(2\pi x - 50\pi t)$, where x and y are in meters and t is in seconds. Determine the wave's:
+A wave is described by the equation $y(x,t) = 0.05 \sin(2\pi x - 50\pi t)$, where x and y are in meters and t is in seconds. Determine the waves':
 
 a) Amplitude
 

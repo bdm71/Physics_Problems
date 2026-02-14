@@ -18,7 +18,7 @@ A resistor $R_1=10\,\Omega$ is connected in series with a parallel combination o
 
 ## 3. Resistors
 
-You have a supply of exactly three $1\,\Omega$ resistors. What are all the possible equivalent resistances you can create by combining them. List all unique values and draw the corresponding circuit diagrams.
+You have a supply of exactly three $1\,\Omega$ resistors. What are all the possible equivalent resistances you can create by combining them? List all unique values and draw the corresponding circuit diagrams.
 
 ## 4. Resistors again
 
@@ -54,7 +54,7 @@ A lightning bolt transfers a charge of 30 Coulombs to the ground in a time of 2 
 
 ## 12. Current
 
-Charge flowing through the wire is given by function of time $Q(t) = 5t^2+5$. What is the current at $t=3$ s?
+Charge flowing through the wire is given by the function of time $Q(t) = 5t^2+5$. What is the current at $t=3$ s?
 
 ## 13. Power & Energy
 
@@ -70,7 +70,7 @@ A transformer is used to step down the voltage from 120 V AC to 9.0 V AC. If the
 
 ## 16. RLC Circuit
 
-Write down the differential equation for  a series RLC circuit with a voltage source $V$, a resistor $R$, an inductor $L$, and a capacitor $C$. Assume the current is $I(t)$ and the voltage across the capacitor is $V_C(t)$. Compare this to the equation of a damped harmonic oscillator. What are the analogies between the terms in the two equations?
+Write down the differential equation for a series RLC circuit with a voltage source $V$, a resistor $R$, an inductor $L$, and a capacitor $C$. Assume the current is $I(t)$ and the voltage across the capacitor is $V_C(t)$. Compare this to the equation of a damped harmonic oscillator. What are the analogies between the terms in the two equations?
 
 ## 17. RLC Impedance
 

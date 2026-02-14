@@ -2,7 +2,7 @@
 
 ## 1. Projectile Motion
 
-A projectile is fired from the ground with an initial velocity of $100 	\text{ m/s}$ at an angle of $37^\circ$ above the horizontal. Calculate:
+A projectile is fired from the ground with an initial velocity of $100  \text{ m/s}$ at an angle of $37^\circ$ above the horizontal. Calculate:
 
 a) The maximum height reached.
 
@@ -20,7 +20,7 @@ Alice is moving along a path described by $A(t) = (2+t, 8-3t)$ and Bob is moving
 
 ## 4. 2D Collision
 
-Two cannons are aimed at each other. The first cannon at $(0,0)$ fires a projectile with an initial velocity of $[100 \text{ m/s}, 80 \text{ m/s}]$. The second cannon at $(800	\text{ m}, 0)$ fires a projectile with a velocity of $[-100 \text{ m/s}, 80 \text{ m/s}]$. At what time $t$ and at what point $(x,y)$ will they collide?
+Two cannons are aimed at each other. The first cannon at $(0,0)$ fires a projectile with an initial velocity of $[100 \text{ m/s}, 80 \text{ m/s}]$. The second cannon at $(800 \text{ m}, 0)$ fires a projectile with a velocity of $[-100 \text{ m/s}, 80 \text{ m/s}]$. At what time $t$ and at what point $(x,y)$ will they collide?
 
 ## 5. Relative Velocity
 
@@ -58,7 +58,7 @@ c) Solve the problem using the graphical method. Consider all possible cases.
 
 ## 12. Kinematics II
 
-The water level in a well is slowly decreasing with a constant velocity $v_1$. We drop a stone into the well, and after time $t_1$ we hear a splash. After time $T$ from the moment of dropping the first stone, we drop a second stone into the well. The sound of the stone hitting the water surface reaches us after time $t_2$ from the moment it was released. Assuming that the speed of sound in air $v \gg v_1$, find:
+The water level in a well is slowly decreasing with a constant velocity $v_1$. We drop a stone into the well, and after time $t_1$, we hear a splash. After time $T$ from the moment of dropping the first stone, we drop a second stone into the well. The sound of the stone hitting the water surface reaches us after time $t_2$ from the moment it was released. Assuming that the speed of sound in air $v \gg v_1$, find:
 
 a) the velocity of the lowering water level $v_1$,
 

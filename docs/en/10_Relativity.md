@@ -6,7 +6,7 @@ At what speed must a *1-meter-long ruler* travel for its length to be observed a
 
 ## 2. Time Dilation
 
-Two identical devices playing a series of 1-hour episodes of a TV show were built and synchronized on Earth. One device stayed on Earth, while the other was placed on a spaceship immediatelly accelerated to relativistic speed. How fast must the spaceship be moving for the device on Earth to have played 2 episodes while the device on the spaceship has played only 1 episode?
+Two identical devices, each playing a series of 1-hour episodes of a TV show, were built and synchronized on Earth. One device stayed on Earth, while the other was placed on a spaceship that was immediately accelerated to relativistic speed. How fast must the spaceship be moving for the device on Earth to have played 2 episodes while the device on the spaceship has played only 1 episode?
 
 ## 3. Time Dilation in Real Life
 
@@ -34,7 +34,7 @@ What would happen to the relative velocities of two objects moving away from eac
 
 ## 9. Twin Paradox
 
-An astronaut spends one year on the International Space Station (ISS), which travels at about $7.66 \text{ km/s}$. How much younger would the astronaut be than their twin on Earth due to kinetic time dilation?
+An astronaut spends one year on the International Space Station (ISS), which travels at about $7.66 \text{ km/s}$. How much younger would the astronaut be than their twin on Earth due to the kinetic time dilation?
 
 ## 10. Gravitational Time Dilation
 

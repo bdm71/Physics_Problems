@@ -2,7 +2,7 @@
 
 ## 1. Projectile Motion
 
-A projectile is fired from the ground with an initial velocity of $100 	\text{ m/s}$ at an angle of $37^\circ$ above the horizontal. Calculate:
+A projectile is fired from the ground with an initial velocity of $100  \text{ m/s}$ at an angle of $37^\circ$ above the horizontal. Calculate:
 
 a) The maximum height reached.
 
@@ -20,7 +20,7 @@ Alice is moving along a path described by $A(t) = (2+t, 8-3t)$ and Bob is moving
 
 ## 4. 2D Collision
 
-Two cannons are aimed at each other. The first cannon at $(0,0)$ fires a projectile with an initial velocity of $[100 \text{ m/s}, 80 \text{ m/s}]$. The second cannon at $(800	\text{ m}, 0)$ fires a projectile with a velocity of $[-100 \text{ m/s}, 80 \text{ m/s}]$. At what time $t$ and at what point $(x,y)$ will they collide?
+Two cannons are aimed at each other. The first cannon at $(0,0)$ fires a projectile with an initial velocity of $[100 \text{ m/s}, 80 \text{ m/s}]$. The second cannon at $(800 \text{ m}, 0)$ fires a projectile with a velocity of $[-100 \text{ m/s}, 80 \text{ m/s}]$. At what time $t$ and at what point $(x,y)$ will they collide?
 
 ## 5. Relative Velocity
 
@@ -46,9 +46,7 @@ Which has greater momentum: a 2-gram fly flying at $10$ m/s or a 60-gram tennis 
 
 The position of an object is given by $\vec{r}(t) = (3t^2)\hat{i} + (5t - 8t^2)\hat{j}$. Find the object's velocity and acceleration vectors as a function of time.
 
-
-
-## 11. Kinematics
+## 11. Kinematics I
 
 Assume that a supersonic jet-powered aircraft, from the moment it starts moving on the runway until it reaches its final velocity, moves with uniformly accelerated motion with acceleration $a$. After a time $T$ from the moment the aircraft started, an explosive charge detonates at the same spot on the runway.
 
@@ -58,15 +56,15 @@ b) Determine the time at which the aircraft and the sound wave will be at the sa
 
 c) Solve the problem using the graphical method. Consider all possible cases.
 
-## 12. Kinematics
+## 12. Kinematics II
 
-The water level in a well is slowly decreasing with a constant velocity $v_1$. We drop a stone into the well, and after time $t_1$ we hear a splash. After time $T$ from the moment of dropping the first stone, we drop a second stone into the well. The sound of the stone hitting the water surface reaches us after time $t_2$ from the moment it was released. Assuming that the speed of sound in air $v \gg v_1$, find:
+The water level in a well is slowly decreasing with a constant velocity $v_1$. We drop a stone into the well, and after time $t_1$, we hear a splash. After time $T$ from the moment of dropping the first stone, we drop a second stone into the well. The sound of the stone hitting the water surface reaches us after time $t_2$ from the moment it was released. Assuming that the speed of sound in air $v \gg v_1$, find:
 
 a) the velocity of the lowering water level $v_1$,
 
 b) the distance of the water surface from the ground level at the moment the second stone is released.
 
-## 13. Kinematics
+## 13. Kinematics III
 
 A circular disc of radius $R$ rotates around its axis with a constant angular velocity $\omega$. A ladybug starts moving from the center of the disc along a selected radius with a constant velocity $v_0$. Find:
 
@@ -80,7 +78,7 @@ d) the dependence of the radius of curvature value $\rho$ on time,
 
 e) the total distance traveled by the ladybug relative to the stationary reference frame.
 
-## 14. Kinematics
+## 14. Kinematics IV
 
 Knowing that during the motion of point $P$, the angle between the direction of the position vector $r$ and the direction of velocity $v$ is constant (in Fig. 1 angle $\chi = \text{const}$), find in polar coordinates:
 
@@ -90,7 +88,7 @@ b) the total length of the point's trajectory.
 
 Assume the initial conditions $\varphi(0)=0$, $r(0)=r_0$. Discuss the obtained results depending on the value of the angle $\chi$.
 
-## 15. Kinematics
+## 15. Kinematics V
 
 In planar motion, the velocity vector $v$ and acceleration vector $a$ form a constant angle equal to $\alpha$. Prove that the velocity magnitude in this motion changes according to the formula:
 
@@ -100,11 +98,11 @@ $$
 
 where $v_0 = v(0)$, and $\varphi_0 = \varphi(0)$ is the angle of the velocity vector with any selected direction at time $t=0$.
 
-## 16. Kinematics
+## 16. Kinematics VI
 
 Find the trajectory along which a supersonic pilot flies in the vertical $xy$ plane if he wants his colleagues standing on the airfield to hear the engine boom from the entire trajectory at the same moment. Provide the coordinates of the end of the trajectory.
 
-## 17. Kinematics
+## 17. Kinematics VII
 
 The motion of a point is described by the equations:
 
@@ -120,7 +118,7 @@ a) Find and draw the trajectory along which the point moves.
 
 b) Find the radius of curvature of the trajectory $\rho$.
 
-## 18. Kinematics
+## 18. Kinematics  VIII
 
 The motion of a point along a curve is described by the equations:
 
@@ -140,7 +138,7 @@ b) the radius of curvature of the trajectory as a function of the coordinate $y$
 
 c) the velocity of the point on the curve.
 
-## 19. Kinematics
+## 19. Kinematics IX
 
 Knowing that a point moves along a catenary curve with the equation:
 
@@ -154,7 +152,7 @@ a) the ratio of the velocity components of the point $v_x$ and $v_y$ as a functi
 
 b) the ratio of the acceleration components of the point $a_x$ and $a_y$ as a function of the point's position.
 
-## 20. Kinematics
+## 20. Kinematics X
 
 Point M moves according to the equation:
 
@@ -172,15 +170,15 @@ c) the radius of curvature of the trajectory $\rho$.
 
 Draw the trajectory of the point. Discuss special cases.
 
-## 21. Kinematics
+## 21. Kinematics XI
 
 A body moves in planar motion, with the areal velocity $\dot{s} = \frac{1}{2}ar$, and the radial velocity $v_r = b$, where $a, b$ are given positive constants. Find the equations of motion and the equation of the body's trajectory in polar coordinates. Assume initial conditions $\varphi(0)=0$, $r(0)=r_0$.
 
-## 22. Kinematics
+## 22. Kinematics XII
 
 A body moves in planar motion, with its areal velocity $\dot{s} = br^2$ ($b>0$), and radial velocity $v_r = 0$. Find the equations of motion and the trajectory equation. Assume initial conditions $r(0)=r_0$, $\varphi(0)=\varphi_0$.
 
-## 23. Kinematics
+## 23. Kinematics XIII
 
 A body moves in planar motion, with its areal velocity $\dot{s} = cr^3$, and transverse velocity $v_\varphi = bt$. The quantities $b$ and $c$ are given positive constants. Assuming initial conditions $\varphi(0)=0$, $r(0)=0$, find in polar coordinates:
 
@@ -188,7 +186,7 @@ a) the equations of motion of the body,
 
 b) the trajectory equation.
 
-## 24. Kinematics
+## 24. Kinematics XIV
 
 Knowing that for a certain planar motion the relationships $v_r = c$, $a_r = -b^2/r^3$ (where $b$ and $c$ are given positive constants) are satisfied, find:
 
@@ -200,7 +198,7 @@ c) the value of the areal velocity.
 
 Assume that at the initial moment $r(0)=r_0$, $\varphi(0)=\varphi_0$.
 
-## 25. Kinematics
+## 25. Kinematics XV
 
 A body was thrown at an angle $\alpha$ to the horizontal with an initial velocity $v_0$. Neglecting air resistance and assuming the value of gravitational acceleration $g$, find:
 

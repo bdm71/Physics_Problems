@@ -1,41 +1,42 @@
 # Section 5: Electromagnetism II
 
-## 1. Refraction (Snell's Law)
+## 1. Gauss's Law
 
-A light ray travels from air (n=1.00) into glass (n=1.50). If the angle of incidence is $30^\circ$, what is the angle of refraction?
+A point charge of $+2 \text{ C}$ is located at the origin. Calculate the electric flux through a spherical surface of radius $1 \text{ m}$ centered at the origin.
 
-## 2. Lorentz Force
+## 2. Ampere's Law
 
-A charged particle with charge $q = 2 \times 10^{-19}$ C and mass $m = 4 \times 10^{-27}$ kg enters a magnetic field of $B = 0.5$ T at a speed of $v = 10^6$ m/s perpendicular to the field. What is the magnitude of the Lorentz force acting on the particle?
+Two long, parallel wires are $10 \text{ cm}$ apart and carry currents of $5 \text{ A}$ in opposite directions. Calculate the magnitude and direction of the magnetic field at a point midway between the wires.
 
-## 3. Photon Energy
+## 3. Biot-Savart Law
 
-The human eye is most sensitive to light with a wavelength of about 550 nm (in vacuum). What is the frequency of this light? What is its energy in electron-volts (eV)?
+A small segment of wire of length $0.1 \text{ m}$ carries a current of $3 \text{ A}$. The segment is located at a distance of $0.2 \text{ m}$ from a point $P$. Calculate the magnetic field at point $P$ due to this current segment (assume the segment is perpendicular to the line connecting it to point $P$).
 
-## 4. EM Wave Analysis
+## 4. Magnetic Torque
+
+A rectangular loop of wire with dimensions $10 \text{ cm}$ by $5 \text{ cm}$ carries a current of $2 \text{ A}$. A uniform magnetic field of $B = 0.3 \text{ T}$ is applied parallel to the plane of the loop. What is the magnitude of the magnetic torque on the loop?
+
+## 5. EM Wave Analysis
 
 An electromagnetic wave has its electric field component described by $E_y(x,t) = 100 \sin(10^7 x - \omega t) \text{ V/m}$. What is the direction of propagation? What is the wavelength $\lambda$? What is the angular frequency $\omega$? What is the equation for the magnetic field component?
 
-## 5. Ampere's Law Application
+## 6. Wavelength and Frequency
 
-Two long, parallel wires are 10 cm apart and carry currents of 5 A in opposite directions. Calculate the magnitude and direction of the magnetic field at a point midway between the wires.
+The human eye is most sensitive to light with a wavelength of about $550 \text{ nm}$. What color does this correspond to in the visible spectrum? What is the frequency of this light?
 
-## 6. Transformer Ratio
+## 7. EM Spectrum
 
-A transformer is used to step down the voltage from 120 V AC to 9.0 V AC. If the primary coil has 400 turns, how many turns must the secondary coil have?
+List the following types of electromagnetic radiation in order of increasing wavelength: Infrared, Ultraviolet, Microwaves, X-rays, Radio waves, Gamma rays.
 
-## 7. Magnetic Torque
+## 8. Refraction (Snell's Law)
 
-A rectangular loop of wire with dimensions 10 cm by 5 cm carries a current of 2 A. A uniform magnetic field of B = 0.3 T is applied parallel to the plane of the loop. What is the magnitude of the magnetic torque on the loop?
+A light ray travels from air ($n=1.00$) into glass ($n=1.50$). If the angle of incidence is $30^\circ$, what is the angle of refraction?
 
-## 8. Speed of Light in Media
+## 9. Speed of Light in Media
 
-What is the speed of light in a diamond, which has an index of refraction n = 2.42?
+What is the speed of light in a diamond, which has an index of refraction $n = 2.42$?
 
-## 9. EM Spectrum
+## 10. Brewster Angle
 
-List the following types of electromagnetic radiation in order of increasing energy per photon: Infrared, Ultraviolet, Microwaves, X-rays, Radio waves, Gamma rays.
+Light in air strikes a glass surface with refractive index $n = 1.50$. At what angle of incidence does reflected light become fully polarized?
 
-## 10. Capacitor Energy Storage
-
-A parallel-plate capacitor with plate area 0.1 m² and plate separation 1 mm is connected to a 12 V battery. Calculate the capacitance of the capacitor and the energy stored in it.

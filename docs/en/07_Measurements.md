@@ -14,7 +14,7 @@ The resistance R is calculated using Ohm's Law, $R = V/I$. If the voltage is mea
 
 ## 4. Relative Uncertainty
 
-A car's speedometer has a 5% uncertainty. If it reads 60 km/h, what is the range of the car's actual speed?
+A car's speedometer has a 5% of uncertainty. If it reads 60 km/h, what is the range of the car's actual speed?
 
 ## 5. Percentage Calculation
 
@@ -34,10 +34,10 @@ Measure the speed of light using a microwave oven, a bar of chocolate, and a rul
 
 ## 9. Pendulum Measurements - html/real
 
-Create a simple pendulum simulator in HTML equipped with a stopwatch for manual timing. Assuming the string length  is an exact value, run the simulation and perform 10 measurements of the time taken for 10 complete oscillations. Based on the obtained results, manually calculate the mean period, standard deviation. Using this data, determine the value of the acceleration due to gravity  and calculate the measurement uncertainty of this result.
+Create a simple pendulum simulator in HTML equipped with a stopwatch for manual timing. Assuming the string length is an exact value, run the simulation and perform 10 measurements of the time taken for 10 complete oscillations. Based on the obtained results, manually calculate the mean period and standard deviation. Using this data, determine the value of the acceleration due to gravity and calculate the measurement uncertainty of this result.
 
-Reapeat the real-life experiment: set up a physical pendulum using a string and a small mass (e.g., a metal ball, keychain, neclace). Measure the length of the pendulum and perform 10 measurements of the time taken for 10 complete oscillations using a stopwatch in your cellphone. Calculate the mean period and its standard deviation. Use this data to calculate the value of the acceleration due to gravity and its associated uncertainty.
+Repeat the real-life experiment: set up a physical pendulum using a string and a small mass (e.g., a metal ball, keychain, necklace). Measure the length of the pendulum and perform 10 measurements of the time taken for 10 complete oscillations using a stopwatch in your cellphone. Calculate the mean period and its standard deviation. Use this data to calculate the value of the acceleration due to gravity and its associated uncertainty.
 
 ## 10. Mass-Spring Measurements - html
 
-Generate a simulator of a mass suspended on a spring in HTML with a timing function. Treating the mass  as a given value with zero uncertainty, perform a series of 10 time measurements for 10 complete oscillations. Use the collected data to calculate the mean period, standard deviation, and Type A uncertainty. Calculate the value of the spring constant  along with its measurement uncertainty.
+Generate a simulator of a mass suspended on a spring in HTML with a timing function. Treating the mass as a given value with zero uncertainty, perform a series of 10 time measurements for 10 complete oscillations. Use the collected data to calculate the mean period, standard deviation, and Type A uncertainty. Calculate the value of the spring constant along with its measurement uncertainty.

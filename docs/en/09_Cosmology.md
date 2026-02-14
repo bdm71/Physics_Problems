@@ -14,7 +14,7 @@
 
 ## 4. Hubble's Law
 
-According to Hubble's Law $v = H_0 d$, and using value of $H_0 \approx 70 \text{ (km/s)/Mpc}$, at what distance would a galaxy be receding from us at the speed of light? This defines the approximate size of the observable universe.
+According to Hubble's Law $v = H_0 d$, and using the value of $H_0 \approx 70 \text{ (km/s)/Mpc}$, at what distance would a galaxy be receding from us at the speed of light? This defines the approximate size of the observable universe.
 
 ## 4. Galactic Year
 
@@ -26,13 +26,13 @@ The Andromeda galaxy is about 2.5 million light-years away and is moving towards
 
 ## 6. Galactic Communication
 
-How much time it would take to exchange mutual greetings between two civilizations located at opposite ends of the Milky Way, assuming they can communicate at the speed of light?
+How much time would it take to exchange mutual greetings between two civilizations located at opposite ends of the Milky Way, assuming they can communicate at the speed of light?
 
 ## 7. Galactic Trivia
 
-a) What is the Milky Way galaxy ratio of  diameter to its thickness? 
+a) What is the Milky Way galaxy's ratio of diameter to its thickness? 
 
-b) If 200 billion stars constituting Milky Way were distributed equally among present Earth's people, how many stars would each person get?
+b) If 200 billion stars constituting the Milky Way were distributed equally among the present Earth's people, how many stars would each person get?
 
 c) How much time would it take to count all the stars in the Milky Way if you counted one star per second without stopping?
 
@@ -46,4 +46,4 @@ A galaxy is receding from Earth at a speed of $5 \times 10^6 \text{ m/s}$. It em
 
 ## 10. Cosmic Microwave Background
 
-The Cosmic Microwave Background (CMB) radiation now has a temperature of about 2.7 K but when it was emitted during the recombination era, it had a temperature of about 3000 K. What was the wavelength of the peak intensity of the CMB radiation at the time of recombination, and what is its wavelength now? Use Wien's displacement law: $\lambda_{peak} = \frac{b}{T}$, where $b \approx 2.898 \times 10^{-3} \text{ m K}$ is Wien's constant.
+The Cosmic Microwave Background (CMB) radiation now has a temperature of about 2.7 K. When it was emitted during the recombination era, it had a temperature of about 3000 K. What was the wavelength of the peak intensity of the CMB radiation at the time of recombination, and what is its wavelength now? Use Wien's displacement law: $\lambda_{peak} = \frac{b}{T}$, where $b \approx 2.898 \times 10^{-3} \text{ m K}$ is Wien's constant.
