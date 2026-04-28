@@ -1,327 +1,157 @@
-# 🎬 Particle Dynamics — Visualization + Full Solution
+# 🌊 Standing Wave Problem – Step-by-Step Solution
 
-## 📘 Problem
+Two waves are described by:
 
-In a certain force field, the motion of a particle with mass:
+y₁(x,t) = A sin(kx − ωt)
 
-```
-m = 0.5 kg
-```
+y₂(x,t) = A sin(kx + ωt)
 
-is given by:
+We need to determine:
 
-$$
-x = 5t^2 - t,\quad y = 2t^3,\quad z = -3t + 2
-$$
-
-Find the time dependence of:
-
-- Velocity  
-- Momentum  
-- Acceleration  
-- Force  
-- Power  
+a) The equation of the resulting **standing wave**  
+b) The positions of the **nodes**
 
 ---
 
-# 🧠 Step 1 — Position Vector
+# 📘 Step 1: Add the Two Waves
 
-We write motion in vector form:
+The total displacement is:
 
-$$
-\mathbf{r}(t) = (5t^2 - t,\; 2t^3,\; -3t + 2)
-$$
+y(x,t) = y₁(x,t) + y₂(x,t)
 
-👉 This fully describes the motion.
+Substitute the given equations:
 
----
+y(x,t) = A sin(kx − ωt) + A sin(kx + ωt)
 
-# 🚀 Step 2 — Velocity
+Factor out A:
 
-Velocity is the derivative of position:
-
-$$
-\mathbf{v}(t) = \frac{d\mathbf{r}}{dt}
-$$
-
-Differentiate each component:
-
-$$
-\mathbf{v}(t) = (10t - 1,\; 6t^2,\; -3)
-$$
+y(x,t) = A [sin(kx − ωt) + sin(kx + ωt)]
 
 ---
 
-# ⚡ Step 3 — Acceleration
+# 📘 Step 2: Use Trigonometric Identity
 
-Acceleration is the derivative of velocity:
+Use the identity:
 
-$$
-\mathbf{a}(t) = \frac{d\mathbf{v}}{dt}
-$$
+sin(α − β) + sin(α + β) = 2 sin(α) cos(β)
 
-$$
-\mathbf{a}(t) = (10,\; 12t,\; 0)
-$$
+Let:
 
----
+- α = kx  
+- β = ωt
 
-# 🔥 Step 4 — Momentum
+Then:
 
-Momentum formula:
+sin(kx − ωt) + sin(kx + ωt) = 2 sin(kx) cos(ωt)
 
-$$
-\mathbf{p} = m\mathbf{v}
-$$
+So:
 
-$$
-\mathbf{p}(t) = 0.5(10t - 1,\; 6t^2,\; -3)
-$$
-
-$$
-\mathbf{p}(t) = (5t - 0.5,\; 3t^2,\; -1.5)
-$$
+y(x,t) = 2A sin(kx) cos(ωt)
 
 ---
 
-# ⚡ Step 5 — Force
+# ✅ Resulting Standing Wave Equation
 
-Using Newton’s second law:
+y(x,t) = 2A sin(kx) cos(ωt)
 
-$$
-\mathbf{F} = m\mathbf{a}
-$$
+### ✔ Final Answer:
 
-$$
-\mathbf{F}(t) = 0.5(10,\; 12t,\; 0)
-$$
+**Standing wave equation:**
 
-$$
-\mathbf{F}(t) = (5,\; 6t,\; 0)
-$$
+y(x,t) = 2A sin(kx) cos(ωt)
 
 ---
 
-# ⚡ Step 6 — Power
+# 📘 Step 3: Find the Nodes
 
-Power is:
+Nodes are points that **never move**, meaning displacement is always zero.
 
-$$
-P = \mathbf{F} \cdot \mathbf{v}
-$$
+From:
+
+y(x,t) = 2A sin(kx) cos(ωt)
+
+For all time, this happens when:
+
+sin(kx) = 0
+
+---
+
+# 📘 Step 4: Solve for x
+
+We know:
+
+sin(kx) = 0
+
+This occurs when:
+
+kx = nπ
+
+where:
+
+n = 0, 1, 2, 3, ...
+
+Now solve for x:
+
+x = nπ / k
+
+---
+
+# ✅ Positions of the Nodes
+
+x = nπ / k
+
+where n = 0, 1, 2, 3, ...
+
+### ✔ Final Answer:
+
+**Node positions:**
+
+x = 0, π/k, 2π/k, 3π/k, ...
+
+---
+
+# 📘 Step 5: If Using Wavelength
+
+Since:
+
+k = 2π / λ
 
 Substitute:
 
-$$
-P = (5,\; 6t,\; 0)\cdot(10t - 1,\; 6t^2,\; -3)
-$$
+x = nπ / (2π/λ)
 
-$$
-P = 50t - 5 + 36t^3
-$$
+Simplify:
 
-$$
-P(t) = 36t^3 + 50t - 5
-$$
+x = nλ / 2
 
 ---
 
-# 🏁 Final Answers
+# ✅ Nodes in Terms of Wavelength
 
-## Velocity
+x = nλ / 2
 
-$$
-(10t - 1,\; 6t^2,\; -3)
-$$
+where n = 0, 1, 2, 3, ...
 
----
-
-## Acceleration
-
-$$
-(10,\; 12t,\; 0)
-$$
+So nodes occur every **half wavelength**.
 
 ---
 
-## Momentum
+# 📌 Final Answers Summary
 
-$$
-(5t - 0.5,\; 3t^2,\; -1.5)
-$$
-
----
-
-## Force
-
-$$
-(5,\; 6t,\; 0)
-$$
-
----
-
-## Power
-
-$$
-P(t) = 36t^3 + 50t - 5
-$$
-
----
-
-# 🎬 Visualization (HTML)
-
-This project also includes an animation that shows:
-
-- 🟡 Particle motion  
-- 🔵 Trajectory  
-- 🔴 Velocity vector  
-- 🟢 Force vector  
-- 📊 Speed and power  
-
----
-
-# 🎮 How the Visualization Works
-
-## Time update
-
-```js
-t += 0.02
-```
-
-👉 moves simulation forward
-
----
-
-## Position update
-
-```js
-pos(t)
-```
-
-👉 recalculates particle position
-
----
-
-## Trail (trajectory)
-
-```js
-trail.push(pos(t))
-```
-
-👉 shows path over time
-
----
-
-## Projection (3D → 2D)
-
-```js
-x: 400 + p.x * scale
-y: 250 - p.y * scale
-```
-
-👉 converts math into screen coordinates
-
----
-
-# 🎯 What You Should Notice
-
-### 1. Motion is curved
-
-```
-because of t² and t³ terms
-```
-
----
-
-### 2. Velocity changes direction
-
-```
-not constant → vector rotates
-```
-
----
-
-### 3. Force only affects x and y
-
-```
-Fz = 0 → no acceleration in z
-```
-
----
-
-### 4. Power changes over time
-
-```
-depends on F · v
-```
-
----
-
-# 🧩 Visual Meaning
-
-| Element | Meaning |
+| Quantity | Result |
 |--------|--------|
-| Yellow dot | particle |
-| Blue line | trajectory |
-| Red arrow | velocity |
-| Green arrow | force |
+| Standing wave equation | y(x,t) = 2A sin(kx) cos(ωt) |
+| Node condition | sin(kx) = 0 |
+| Nodes (wave number form) | x = nπ/k |
+| Nodes (wavelength form) | x = nλ/2 |
 
 ---
 
-# 🚀 How to Run
+# 🧠 Extra Note
 
-1. Save HTML file:
+- **Nodes** = points that never move  
+- **Antinodes** = points with maximum vibration  
 
-```
-particle-dynamics.html
-```
-
-2. Open in browser  
-
-3. Click **Play**
+Antinodes occur halfway between nodes.
 
 ---
-
-# 💡 How To Improve (GitHub Ideas)
-
-### Add real 3D (Three.js)
-Rotate camera
-
----
-
-### Add graphs
-
-```
-x(t), y(t), z(t)
-```
-
----
-
-### Add energy
-
-$$
-KE = \frac12 mv^2
-$$
-
----
-
-### Add step-by-step mode
-Pause and analyze motion
-
----
-
-### Add sliders
-
-- mass  
-- force  
-- initial conditions  
-
----
-
-# 🏁 Final Insight
-
-```
-Position → Velocity → Acceleration → Force → Power
-```
-
-👉 This project lets you **SEE physics in motion** 🔥
