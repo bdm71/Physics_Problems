@@ -138,3 +138,142 @@ $$
 - Energy depends on both power and time.
 
 ---
+# Deriving the Formula
+
+We want to understand where this formula comes from:
+
+$$
+P = \frac{V^2}{R}
+$$
+
+---
+
+# Step 1: Start with the Basic Power Formula
+
+Electrical power is defined as:
+
+$$
+P = VI
+$$
+
+where:
+
+- \(P\) = power (watts)
+- \(V\) = voltage (volts)
+- \(I\) = current (amperes)
+
+---
+
+# Step 2: Use Ohm’s Law
+
+Ohm’s Law says:
+
+$$
+V = IR
+$$
+
+We can solve for current:
+
+$$
+I = \frac{V}{R}
+$$
+
+---
+
+# Step 3: Substitute Into the Power Formula
+
+Start with:
+
+$$
+P = VI
+$$
+
+Replace \(I\) with:
+
+$$
+I = \frac{V}{R}
+$$
+
+So:
+
+$$
+P = V\left(\frac{V}{R}\right)
+$$
+
+---
+
+# Step 4: Simplify
+
+Multiply the voltages:
+
+$$
+P = \frac{V^2}{R}
+$$
+
+---
+
+# Final Formula
+
+$$
+\boxed{
+P = \frac{V^2}{R}
+}
+$$
+
+---
+
+# Other Equivalent Power Formulas
+
+Starting from:
+
+$$
+P = VI
+$$
+
+and using Ohm’s Law, we can also get:
+
+---
+
+## Using \(V = IR\)
+
+Substitute into power:
+
+$$
+P = I(IR)
+$$
+
+$$
+P = I^2R
+$$
+
+---
+
+# Final Set of Power Formulas
+
+$$
+\boxed{
+P = VI
+}
+$$
+
+$$
+\boxed{
+P = I^2R
+}
+$$
+
+$$
+\boxed{
+P = \frac{V^2}{R}
+}
+$$
+
+---
+
+# Quick Intuition
+
+- Large voltage → more power
+- Large current → more power
+- Resistance affects how much electrical energy becomes heat
+
+---
